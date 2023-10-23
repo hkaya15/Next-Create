@@ -1,0 +1,16 @@
+:root{
+    --white: #fff;
+}
+
+body{
+    background-color: black;
+}
+
+p,h1,div{
+    color: #fff;
+}
+
+a{
+    color: #fff;
+    text-decoration: none; 
+}
